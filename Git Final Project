@@ -1,0 +1,44 @@
+Contributing to Git Final Project
+Welcome to Git Final Project! We appreciate your interest in contributing. Please take a moment to review this document to ensure a smooth and collaborative experience for all contributors.
+
+Table of Contents
+Getting Started
+Code of Conduct
+How to Contribute
+Reporting Issues
+Suggesting Enhancements
+Working on Code
+Submitting Pull Requests
+Style Guidelines
+Community
+License
+Getting Started
+Thank you for considering contributing to Git Final Project. Before you start, please:
+
+Read and adhere to our Code of Conduct.
+Familiarize yourself with our License.
+Code of Conduct
+Our Code of Conduct outlines the behavior we expect from all contributors. Please read and follow it.
+
+How to Contribute
+Reporting Issues
+If you find a bug or have a suggestion, please open an issue using our issue template. Be sure to include relevant details.
+
+Suggesting Enhancements
+We welcome suggestions for improvements or new features. To suggest an enhancement, open an issue with the "enhancement" label.
+
+Working on Code
+Before you start working on code, please check if there's an existing issue related to it. If not, consider opening a new issue to discuss your proposal.
+
+Submitting Pull Requests
+Fork the repository and create a new branch for your feature/bugfix.
+Write meaningful commit messages and keep commits logically organized.
+Submit a pull request to the main branch. Reference the relevant issue, if applicable.
+Be prepared to address feedback during the review process.
+Community
+Connect with other contributors and users of Git Final Project:
+
+Join our community on [Slack/Discord/Forum]: [Link to community platform]
+Follow us on [Twitter/other social media]: [Link to social media profile]
+License
+By contributing to Git Final Project, you agree that your contributions will be licensed under the License.
